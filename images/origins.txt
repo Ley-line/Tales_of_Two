@@ -1,0 +1,74 @@
+This would not be possible without all the beautiful artists that have worked on Wesnoth.
+It was hard to include everyone's names, if you see any work that origins from you, please let me know!
+
+Attacks:
+Most are recoloured or modified by Leyline but origin from core files, or taken Dugi's Legends of the Invincibles
+Noctum was taken from Invasion from the Unkown
+staff-magic-wood, modifications of existing core files and glows on attacks (such as deathblade-berserk and frenzy ranged) were all created by Leyline
+
+Halo:
+Shields and new illuminations are modified by Leyline from the original illumination halo from core files
+Flame sword was made by Dugi
+Ascended halo's are recolours of Faerie fire magic from core files
+Smite beam origins from core files (Recoloured lightning+brighter lightbeam by Leyline)
+Undead halos are recoloured by Leyline from core files
+
+Items:
+Most are modified by Leyline but origin from core files such as bows (bigger and badder!), potions, amulets and books (added bloom/recolour)
+Lightning hammer effect, essences were drawn, staff-wood2 (excluding halo), sword-experimental were made by Leyline
+
+Masks:
+taken from wesnoth forums, unknown author
+
+Icons:
+geared and special-unit were made by Leyline but based off core files
+
+Portraits:
+Edits done by Leyline, but credit goes to those who originally made them!
+great-frostwolf 	- core files (recolour) / great wolf
+ascendant, astromancer  - core files (recolour) / elvish lady
+cover, orcs_and_undead  - core files (edit)
+female Prophet		- The_Gnat (halo from core)
+royal			- origins from Heir to the Throne
+Xerasz / Gok 		- core files (edit) / Saurian Oracle and Troll Shaman
+mal-keshar		- Kathrin Polikeit (Kitty)
+mages 			- core files (edit) / Red mage and White mage
+undead/*		- core files (edit)
+orcs/goblin ravager	- core files (edit) / Giant spider + Goblin Pillager
+
+Units:
+Level 4 units from core advancements were inspired by Dugi and thanks to him for listing the credits in such a fashion
+edits of core files, with some of them were changed significantly
+incarnation.png is a slightly modified sprite from Invasion of the Unknown, its animations are made by Dugi
+celestial.png was created by van Tarkin and edited and animated by Dugi, but its wings are taken from only van Tarkin knows where
+reaper.png is based on core files, its wings were taken from Era of Myths
+arcanister.png was taken somewhere from Wesnoth forums, original author, animations by Dugi
+Snow Hunter is a modified Elvish Hunter
+Sword Mage advancement path's female sprites are based on Princess from Heir to the Throne
+Siege Troll comes from RPG Creation Kit resource pack, original author unknown
+Goblin Warbanner and former Rocmaster renamed to Sky Goblin taken from Era of Magic
+Orcish Warmonger was drawn by trickityhouses, and left to rot on the forums, taken unchanged (Warmonger ftw!)
+blackguard was made by van Tarkin
+Blackguard, Chaos Rider and Elvish Overlord were made by van Tarkin
+Ice Dragon is based on the original dragon, significantly improved by SFault
+female Prophet was given by ForestDragon, animations by Dugi
+Elvish- ascendant, astromancer, grand lady and dame were made by Leyline but heavily based off Elvish Lady (core files)
+
+Editted by Leyline:
+Mage of Divinity - Silver Mage recolour, (modified) mace from mage of light
+Grand Wizard 	 - Great Mage recolour
+Mythical Mage    - White Mage recolour
+Infernal Wizard  - Arch Mage recolour
+Dread Undead/    - Recolours from core files apart from those named below
+Hungering Void
+Empty Sire	 - Recolour of Demilich (LotI)
+Doomlord	 - Based off Draug (modified weapon, core files)
+Risen Yeti 	 - Recolour of Yeti, modified to die like a soulless/walking corpse
+
+Projectiles:
+All taken from core but heavily modified by Leyline
+
+Misc:
+wesnoth-icon (tales of two) - Rapier and Elvish sword made by Leyline, original sword origins/shield from core files
+bookshelves from Legends of the Invincibles (I assume Dugi or another unknown author)
+mountain-door and summoning circle modifications from core files by Leyline
