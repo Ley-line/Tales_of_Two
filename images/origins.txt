@@ -53,6 +53,7 @@ Blackguard, Chaos Rider and Elvish Overlord were made by van Tarkin
 Ice Dragon is based on the original dragon, significantly improved by SFault
 female Prophet was given by ForestDragon, animations by Dugi
 Elvish- ascendant, astromancer, grand lady and dame were made by Leyline but heavily based off Elvish Lady (core files)
+Troll Boulderlobber came from Balancing Extended Era Modification
 
 Editted by Leyline:
 Mage of Divinity - Silver Mage recolour, (modified) mace from mage of light
