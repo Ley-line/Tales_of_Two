@@ -58,13 +58,14 @@ Troll Boulderlobber came from Balancing Extended Era Modification
 Editted by Leyline:
 Mage of Divinity - Silver Mage recolour, (modified) mace from mage of light
 Grand Wizard 	 - Great Mage recolour
-Mythical Mage    - White Mage recolour
-Infernal Wizard  - Arch Mage recolour
-Dread Undead/    - Recolours from core files apart from those named below
+Mythical Mage    	 - White Mage recolour
+Infernal Wizard 	 - Arch Mage recolour
+Dread Undead/   	 - Recolours from core files apart from those named below
 Hungering Void
 Empty Sire	 - Recolour of Demilich (LotI)
 Doomlord	 - Based off Draug (modified weapon, core files)
 Risen Yeti 	 - Recolour of Yeti, modified to die like a soulless/walking corpse
+Great Frostwolf 	 - Recolour Dire Wolf
 
 Projectiles:
 All taken from core but heavily modified by Leyline
